@@ -1,0 +1,18 @@
+﻿Manmeet Singh
+send2manmeet@gmail.com
+https://github.com/manmeet3591
+
+Statement of Research Experience
+
+My research experience has primarily been in the use of Numerical Simulations such as Earth System Modelling, Direct Numerical Simulations and use of observational datasets to understand and improve the parameterizations in the models. Specifically I have been working in the following areas:
+
+The development and understanding of response to aerosol forcing in IITM Earth System Model. Along with one of my colleague, we developed a module for implementing aerosols in the model. Also I wrote a module to develop the CMOR implementations in the model. These requirements are required for participation of the model in CMIP6.
+
+I have been working on developing a Finite Difference Direct Numerical Simulation(DNS) code from scratch which is at a 2D laminar parallel stage and would be used to study the entrainment and mixing that happen in clouds.
+
+In addition to my own DNS, I have been working to develop the collision coalescence module for a Spectral Langragian DNS code. This work is complete but needs to be validated further.
+
+I developed a Non Linear Time Series Analysis code following Kurths to study the phase coherence between various signals such as ENSO and Indian Summer Monsoon Rainfall. This code is available on my github page.
+
+I have also as a part of developing a Neural Network Code in Fortran worked on TRMM data. This work is in a preliminary stage, the code being available on github. 
+
